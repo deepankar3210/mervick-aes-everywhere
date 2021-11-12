@@ -1,0 +1,16 @@
+bash/
+clojure/
+cpp/
+go/
+java/
+kotlin/
+net/
+php/
+python/
+ruby/
+composer.json
+Makefile
+phpunit.xml
+.travis.yml
+.npmignore
+.gitignore
